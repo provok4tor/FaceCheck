@@ -26,5 +26,5 @@
       
 <h3 align="center">База данных</h3>
 
-      ![image](https://user-images.githubusercontent.com/103079724/197048012-d915bb5f-bd47-44ca-a83f-81aaf29e3116.png)
+![image](https://user-images.githubusercontent.com/103079724/197048012-d915bb5f-bd47-44ca-a83f-81aaf29e3116.png)
 
