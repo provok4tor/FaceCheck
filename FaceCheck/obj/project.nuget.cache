@@ -1,0 +1,118 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+fpOZUJ5TsgFILIZ58KDYNb8w9TRobhfP2WMuE6eWZHpdwcJ9ub/56XKmWc0yljMBuCHs5uqFYOS4W4k+RuyQ==",
+  "success": false,
+  "projectFilePath": "D:\\Рабочий стол\\ВГУ\\3 курс\\.NET\\FaceCheck\\FaceCheck\\FaceCheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.1.0\\microsoft.aspnetcore.authentication.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.1.0\\microsoft.aspnetcore.authorization.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.1.0\\microsoft.aspnetcore.authorization.policy.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.http\\2.1.0\\microsoft.aspnetcore.http.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.1.0\\microsoft.aspnetcore.http.extensions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.1.0\\microsoft.aspnetcore.mvc.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.mvc.apiexplorer\\2.1.0\\microsoft.aspnetcore.mvc.apiexplorer.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.1.0\\microsoft.aspnetcore.mvc.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.1.0\\microsoft.aspnetcore.mvc.dataannotations.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.1.0\\microsoft.aspnetcore.responsecaching.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.1.0\\microsoft.aspnetcore.routing.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.1.0\\microsoft.aspnetcore.routing.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.staticfiles\\2.1.0\\microsoft.aspnetcore.staticfiles.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.1.0\\microsoft.aspnetcore.webutilities.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.2.0\\microsoft.extensions.configuration.binder.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.2.0\\microsoft.extensions.dependencyinjection.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.0.0\\microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\2.1.0\\microsoft.extensions.fileproviders.embedded.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.8\\microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.localization\\2.1.0\\microsoft.extensions.localization.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\2.1.0\\microsoft.extensions.localization.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.logging\\2.2.0\\microsoft.extensions.logging.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.objectpool\\2.1.0\\microsoft.extensions.objectpool.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.0.0\\microsoft.extensions.options.configurationextensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.extensions.webencoders\\2.1.0\\microsoft.extensions.webencoders.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.net.http.headers\\2.1.0\\microsoft.net.http.headers.2.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.aspnetcore\\6.0.1\\serilog.aspnetcore.6.0.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.enrichers.correlationid\\3.0.1\\serilog.enrichers.correlationid.3.0.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.expressions\\3.4.1\\serilog.expressions.3.4.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.extensions.hosting\\5.0.1\\serilog.extensions.hosting.5.0.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.extensions.logging\\3.1.0\\serilog.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.settings.configuration\\3.3.0\\serilog.settings.configuration.3.3.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.sinks.debug\\2.0.0\\serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.sinks.periodicbatching\\3.1.0\\serilog.sinks.periodicbatching.3.1.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\serilog.sinks.seq\\5.2.1\\serilog.sinks.seq.5.2.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.0\\system.diagnostics.diagnosticsource.4.5.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.0.0\\system.runtime.interopservices.runtimeinformation.4.0.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microsoft.EntityFrameworkCore 6.0.10 несовместим с net60 (.NETFramework,Version=v6.0). Пакет Microsoft.EntityFrameworkCore 6.0.10 поддерживает: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer 5.0.0 несовместим с net60 (.NETFramework,Version=v6.0). Пакет Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer 5.0.0 поддерживает:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microsoft.EntityFrameworkCore 6.0.10 несовместим с net60 (.NETFramework,Version=v6.0) / win7-x86. Пакет Microsoft.EntityFrameworkCore 6.0.10 поддерживает: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer 5.0.0 несовместим с net60 (.NETFramework,Version=v6.0) / win7-x86. Пакет Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer 5.0.0 поддерживает:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0/win7-x86"
+      ]
+    }
+  ]
+}
